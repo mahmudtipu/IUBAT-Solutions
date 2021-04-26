@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#99CC99"
+    tools:context="com.applicationull.iubatsolutions.LoanSystem">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                        <TextView
+                            android:gravity="center"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="LOAN SYSTEM"
+                            android:textSize="20sp"
+                            android:layout_margin="5dp"
+                            android:textStyle="bold"
+                            android:textColor="#000"
+                            />
+
+                        <me.biubiubiu.justifytext.library.JustifyTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/loan_system_text1"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="10dp"
+                            android:textSize="20sp"
+                            android:textColor="#000"
+                            />
+
+                        <me.biubiubiu.justifytext.library.JustifyTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/loan_system_text2"
+                            android:textStyle="italic"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="10dp"
+                            android:textSize="20sp"
+                            android:textColor="#000"
+                            />
+                        <me.biubiubiu.justifytext.library.JustifyTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/loan_system_text3"
+                            android:textStyle="bold"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginRight="10dp"
+                            android:textSize="20sp"
+                            android:textColor="#000"
+                            />
+                </LinearLayout>
+        </ScrollView>
+
+</LinearLayout>

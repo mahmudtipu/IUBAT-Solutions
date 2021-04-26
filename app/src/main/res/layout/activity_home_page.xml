@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99CC99"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:weightSum="5"
+    tools:context="com.applicationull.iubatsolutions.HomePageActivity">
+
+    <Button
+        android:id="@+id/iubatWebsite"
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginBottom="5dp"
+        android:text="IUBAT WEBSITE"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:background="@drawable/homebutton"
+        />
+
+    <Button
+        android:id="@+id/facultyInfoId"
+        android:layout_weight="1"
+        android:layout_marginBottom="5dp"
+        android:text="FACULTY INFORMATION"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:background="@drawable/homebutton"
+        />
+
+    <Button
+        android:id="@+id/bookShopId"
+        android:layout_weight="1"
+        android:layout_marginBottom="5dp"
+        android:text="BOOK SHOP"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:background="@drawable/homebutton"
+        />
+
+    <Button
+        android:id="@+id/courseInfoId"
+        android:layout_weight="1"
+        android:layout_marginBottom="5dp"
+        android:text="COURSE INFORMATION"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:background="@drawable/homebutton"
+        />
+
+    <Button
+        android:id="@+id/waiverLoanId"
+        android:layout_weight="1"
+        android:text="WAIVER AND LOAN SYSTEM"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:background="@drawable/homebutton"
+        />
+
+</LinearLayout>

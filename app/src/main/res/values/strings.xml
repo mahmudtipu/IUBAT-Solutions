@@ -1,0 +1,593 @@
+<resources>
+    <string name="app_name">IUBAT Solutions</string>
+    <string name="book_not">Book selling does not mean that you are selling your knowledge. The knowledges are already been stored in you. It means that you are giving an opportunity to others to gain knowledge in a low cost.</string>
+    <string name="loan_system_text1">Dear Students, you will be pleased to know that IUBAT provides the opportunity to study with loan. If you face any financial problem like your financial source cannot afford the cost to continue your semester as per sequence in that case you can take place under this Loan System.\n</string>
+    <string name="loan_system_text2">\nThere are some conditions to get this opportunity:\n</string>
+    <string name="loan_system_text3">\t\t\t\t◧ Your CGPA must be at least 3.00\n\n\t\t\t◧ You need the proper documents why your financial source cannot afford the cost.\n\n\t\t\t◧ You must have to be paid previous dues if you have any.\n</string>
+    <string name="waiver_system_conditions1">Dear Students, you will enjoy the waiver system regarding your grade in HSC and SSC. There are some conditions to enjoy this waiver as per sequence:\n\t\t\t\t</string>
+    <string name="waiver_system_conditions2">\t\t\t\t◧ Initially you can enjoy your waiver for the first four semesters.\n\n\t\t\t\t◧ From the fifth semester 50% of your waiver will be being decreased if your CGPA is bellow 3.00\n\t\t\t\t</string>
+    <string name="waiver_system_conditions3">[For example- you are enjoying 100 percent of waiver. At the fifth semester if your CGPA became bellow 3.00. Then your waiver will be 50 percent. Again if you fail to increase your CPGA at the sixth semester your waiver will be 25 percent. If you cannot increase your CGPA your waiver will be vanished.]\n</string>
+    <string name="waiver_system_conditions4">\t\t◧ You can get back full of your waiver if your CGPA become at least 3.00\n</string>
+    <string-array name="faculty_info">
+        <item>Dr M A Hannan\nRoom # 316\nCell : 01760329215\nE-mail : hannan@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr Md Shohidullah Miah\nRoom # 232\nCell : 01748190474\nE-mail : drshohidullah@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr. Md. Emdadul Haque\nRoom # 711\nCell : 01712 931323\nE-mail : drhaque@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr Md Ataur Rahman\nRoom # 107\nCell : 01711821908,\nE-mail : marahman@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr Anil Chandra Basak\nRoom # 810\nCell : 01712137402\nE-mail : acbasak@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr Mujibur Rahman Khan\nRoom # 517\nCell : 01714 210833\nE-mail : drmrkhan@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Prof Dr A M Faruque\nRoom # 108\nCell : 01713382301\nE-mail : dramfarooque@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr M Sayadur Rahman\nRoom # 110\nCell : 01712206044\nE-mail : dmsrahman@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr Md Salah uddin\nRoom # 111\nCell : 01553207367\nE-mail : drsalahuddin@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr Farjana Sultana\nRoom # 705\nCell : 01925 871293\nE-mail : farjana1s@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr Saila Sharmin\nRoom # 111\nCell : 01717 081691\nE-mail : shaila.sharmin@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr M Rehan Dastagir\nRoom # 111\nCell : 01742 888829\nE-mail : rdastagir@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr.Arif Reza\nRoom # 423\nCell : 01712593256\nE-mail : arif.reza@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Dr. Mohammed Tareque Aziz\nRoom # 228\nCell : 01763717080\nE-mail : taziz@iubat.edu\nCollege of Business Administration</item>
+        <item>Md Lutfar Rahman\nRoom # 124\nCell : 01715133008\nE-mail : lutfarrahman@iubat.edu\nCollege of Business Administration</item>
+        <item>Dr M A Mannan\nRoom # 124\nCell : 01716252172\nE-mail : drmannan@iubat.edu\nCollege of Business Administration</item>
+        <item>Khaled Shams Chisty\nRoom # 102/125\nCell : 01715372253\nE-mail : chisty@iubat.edu\nCollege of Business Administration</item>
+        <item>Dost Md Samsuzzaman\nRoom # 301\nCell : 01819401860\nE-mail : dm.samsuzzaman@iubat.edu\nCollege of Business Administration</item>
+        <item>Md Ashequr Rahman\nRoom # \nCell : 01727658977\nE-mail : arahman@iubat.edu\nCollege of Business Administration</item>
+        <item>Abdullah Al Yousuf Khan\nRoom # 709/125\nCell : 01841 175 645\nE-mail : aykhan@iubat.edu\nCollege of Business Administration</item>
+        <item>Anika Khurshid\nRoom # 420\nCell : 01534656403\nE-mail : anika@iubat.edu\nCollege of Business Administration</item>
+        <item>Abdus Salam\nRoom # 812\nCell : 1534 515383\nE-mail : absalam@iubat.edu\nCollege of Business Administration</item>
+        <item>M Anwar Hossain\nRoom # 511\nCell : 01732365459\nE-mail : anwar.hossain@iubat.edu\nCollege of Business Administration</item>
+        <item>Faquir Mohammad Ishtiaque\nRoom # 111\nCell : 01713012735\nE-mail : ishtiaque@iubat.edu\nCollege of Business Administration</item>
+        <item>Arif Ahsan\nRoom # 813\nCell : 01837411533\nE-mail : arif.ahsan@iubat.edu\nCollege of Business Administration</item>
+        <item>Mohammed Kamruzzaman\nRoom # 301\nCell : 01682927493\nE-mail : mkamruzzaman@iubat.edu\nCollege of Business Administration</item>
+        <item>Jamee Ahmad\nRoom # 707\nCell : 01687 028264\nE-mail : jamee.ahmad@iubat.edu\nCollege of Business Administration</item>
+        <item>Zahir Rayhan Salim\nRoom # 424\nCell : 01826618686\nE-mail : zahir.rayhan@iubat.edu\nCollege of Business Administration</item>
+        <item>Kazi Md. Fahim Ahmed\nRoom # 813\nCell : 01796 587492\nE-mail : kazi.ahmed@iubat.edu\nCollege of Business Administration</item>
+        <item>Ms. Ananya Raka Chakraborty\nRoom # 619\nCell : 01722471126\nE-mail : ananya.raka@iubat.edu\nCollege of Business Administration</item>
+        <item>Shahriar Tanjimul Islam\nRoom # 415\nCell : 01878629447\nE-mail : shahriar.tanjimul@iubat.edu\nCollege of Business Administration</item>
+        <item>Shaikh Sabbir Ahmed Waliullah\nRoom # 522\nCell : 01947 516662\nE-mail : shaikh.waliullah@iubat.edu\nCollege of Business Administration</item>
+        <item>Mr.Mirza Ahsanul Hossain\nRoom # 313 Ext # 327\nCell : 01727152327\nE-mail : mirza.ahsanul@iubat.edu\nCollege of Business Administration</item>
+        <item>Mahmuda Ali\nRoom # 708\nCell : 01767462072\nE-mail : mahmuda.ali@iubat.edu\nCollege of Business Administration</item>
+        <item>Laila Habib\nRoom # 710 Ext # 189\nCell : 01730 442325\nE-mail : laila.habib@iubat.edu\nCollege of Business Administration</item>
+        <item>Mr.Alamgir Hossain\nRoom # 519\nCell : 01700850587\nE-mail : alamgir.hossain@iubat.edu\nCollege of Business Administration</item>
+        <item>Mohammad Ali\nRoom # 708\nCell : 01711 279841\nE-mail : mohammadali@iubat.edu\nCollege of Business Administration</item>
+        <item>Ms.Madhobi Hossain\nRoom # 709\nCell : 01783559024\nE-mail : madhobi.hossain@iubat.edu\nCollege of Business Administration</item>
+        <item>Mr.Mohammad Asifur Rahman\nRoom # 613\nCell : 01742488440\nE-mail : asifur.rahman@iubat.edu\nCollege of Business Administration</item>
+        <item>Prof Dr Md Abdul Haque\nRoom # 616\nCell : 01748 487776\nE-mail : mahaque@iubat.edu\nComputer Science and Engineering</item>
+        <item>Dr Utpal Kanti Das\nRoom # 419\nCell : 01819199419\nE-mail : ukd@iubat.edu\nComputer Science and Engineering</item>
+        <item>Dr Abhijit Saha\nRoom # 614\nCell : 01711201907\nE-mail : asaha@iubat.edu\nComputer Science and Engineering</item>
+        <item>Md Alamgir Bhuyan\nRoom # 217\nCell : 01716247889\nE-mail : alamgir@iubat.edu\nComputer Science and Engineering</item>
+        <item>Md Saidur Rahman\nRoom # 511\nCell : 01911 729378\nE-mail : s.rahman@iubat.edu\nComputer Science and Engineering</item>
+        <item>Fourcan Karim Mazumder\nRoom # 420\nCell : 01738332159\nE-mail : fk.mazumder@iubat.edu\nComputer Science and Engineering</item>
+        <item>Mr Rashedul Islam\nRoom # 813 Ext\nCell : 01776445218\nE-mail : rashed@iubat.edu\nComputer Science and Engineering</item>
+        <item>Umme Fawzia Rahim\nRoom # 811 Ext # 193\nCell : 01748107030\nE-mail : fawzia.shuchi@iubat.edu\nComputer Science and Engineering</item>
+        <item>Md Golam Morshed\nRoom # 709\nCell : 01722429393\nE-mail : morshed@iubat.edu\nComputer Science and Engineering</item>
+        <item>Md Alomgir Hossain\nRoom # 514\nCell : 01718735128\nE-mail : alomgir.hossain@iubat.edu\nComputer Science and Engineering</item>
+        <item>Krishna Das\nRoom # 514\nCell : 01553543733\nE-mail : krishna.das@iubat.edu\nComputer Science and Engineering</item>
+        <item>Camelia Sinthia\nRoom # 512\nCell : 01683570173\nE-mail : camelia@iubat.edu\nComputer Science and Engineering</item>
+        <item>Mr.Humayun Kabir\nRoom # 514\nCell : 01724694056\nE-mail : hkabir@iubat.edu\nComputer Science and Engineering</item>
+        <item>M M Rakibul Hasan\nRoom # 420\nCell : 01925936603\nE-mail : hasan.rakib@iubat.edu\nComputer Science and Engineering</item>
+        <item>Rubayea Ferdows\nRoom # 706\nCell : 01677066697\nE-mail : rubayea@iubat.edu\nComputer Science and Engineering</item>
+        <item>Shahinur Alam\nRoom # 420\nCell : 01683732787\nE-mail : shaheen@iubat.edu\nComputer Science and Engineering</item>
+        <item>Arifa Tur Rahman\nRoom # 420\nCell : 01718891405\nE-mail : arifarahman@iubat.edu\nComputer Science and Engineering</item>
+        <item>Mr.Md.Humayun Kabir Biswas\nRoom # 424\nCell : 01712593601\nE-mail : mhkbiswas@iubat.edu\nComputer Science and Engineering</item>
+        <item>Mohammad Riaz Hasib Hossain\nRoom # 708\nCell : 01949600496\nE-mail : riaz_hasib@iubat.edu\nComputer Science and Engineering</item>
+        <item>Ms.Safwana Haque\nRoom # 710\nCell : 01970983522\nE-mail : safwana.haque@iubat.edu\nComputer Science and Engineering</item>
+        <item>Ms.Ayesha Khatun\nRoom # 519\nCell : 01794818908\nE-mail : ayesha.siddiqua@iubat.edu\nComputer Science and Engineering</item>
+        <item>Md Mortuza Hossain\nRoom # 523\nCell : 01746418181\nE-mail : mortuza.hossain@iubat.edu\nComputer Science and Engineering</item>
+        <item>Ms.Rubina Akter\nRoom # 522\nCell : 01914158704\nE-mail : rubina.akter@iubat.edu\nComputer Science and Engineering</item>
+        <item>Mohammad Sajid Shahriar\nRoom # 420\nCell : 01674342278\nE-mail : sajid@iubat.edu\nComputer Science and Engineering</item>
+        <item>Dr Md Shariful Islam\nRoom # 317\nCell : 01726531398, 01\nE-mail : sharifulislam@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Dr. Bishwajit Saha\nRoom # 121\nCell : 01818240545\nE-mail : bsaha@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Md Abul Bashar\nRoom # 809\nCell : 01819250437\nE-mail : mabashar@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Dr. Md. Aziz ul Huq\nRoom # 317\nCell : 01713018164\nE-mail : azizbd2000@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Khadiza Akter (Bonna)\nRoom # 102\nCell : 01812291492\nE-mail : khadiza@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Sairatun Nesa Soheli\nRoom # 514\nCell : 01618420024\nE-mail : soheli@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Suman Chowdhury\nRoom # 415\nCell : 01756777414\nE-mail : suman@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Razin Ahmed\nRoom # 415\nCell : 01677274554\nE-mail : razin.ahmed@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Rezoana Bente Arif\nRoom # 322\nCell : 01747868088\nE-mail : rezoana@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Md Abu Bakr Siddique\nRoom # 511\nCell : 01732056156\nE-mail : absiddique@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Md Turiqul Islam\nRoom # 322 Ext # 311\nCell : 01723980697\nE-mail : turiqul.islam@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>S M Rezaul Karim\nRoom # 523\nCell : 01725833289\nE-mail : rkarim@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Dr. Khandaker Mohammad Raisul Amin\nRoom # 412\nCell : 01611275454\nE-mail : kmr.amin@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Murad Kabir Nipun\nRoom # 512\nCell : 01717574779\nE-mail : nipun.murad@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Prof. Dr. Md. Monirul Islam\nRoom # 318\nCell : 017165835584\nE-mail : mmislam@iubat.edu\nCivil Engineering</item>
+        <item>Dr Md Abdul Halim\nRoom # 617\nCell : 01674350213\nE-mail : mahalimprof@iubat.edu\nCivil Engineering</item>
+        <item>Dr Md. Tarekh Rasul\nRoom # 512\nCell : 01716334008\nE-mail : trasul@iubat.edu\nCivil Engineering</item>
+        <item>Engr Md Anisur Rahman\nRoom # 511\nCell : 01813636545\nE-mail : anisur.rahman@iubat.edu\nCivil Engineering</item>
+        <item>Anisuzzaman Khan\nRoom # 811\nCell : 01913300984\nE-mail : anis.zaman@iubat.edu\nCivil Engineering</item>
+        <item>Sayeda Rezwana Jannat\nRoom # 809\nCell : 01750550566\nE-mail : rezwanajannat@iubat.edu\nCivil Engineering</item>
+        <item>Md Hishamur Rahman\nRoom # 314\nCell : 8801681570031\nE-mail : hishamur@iubat.edu\nCivil Engineering</item>
+        <item>Asif Ahmed\nRoom # 322\nCell : 01918436934\nE-mail : asif.ahmed@iubat.edu\nCivil Engineering</item>
+        <item>Md Mahfuzur Rahman\nRoom # 314\nCell : 01963826272\nE-mail : mfz.rahman@iubat.edu\nCivil Engineering</item>
+        <item>Md.Tanvir Ehsan Amin\nRoom # 811\nCell : 01626009395\nE-mail : tanvir.ehsan@iubat.edu\nCivil Engineering</item>
+        <item>Dr Muhammad Enamul Quadir\nRoom # 614\nCell : 01764366750\nE-mail : enamul.quadir@iubat.edu</item>
+        <item>Md Shahrior Alam\nRoom # 613\nCell : 01712062171\nE-mail : shahrior.alam@iubat.edu\nCivil Engineering</item>
+        <item>Mr.Sarder Mohammad Yahya\nRoom # 314\nCell : 01819182534\nE-mail:yahya.sarder@iubat.edu\nCivil Engineering</item>
+        <item>Dr AFM Kamal Chowdhury\nRoom # 423\nCell : 01711479153\nE-mail : afm.chowdhury@iubat.edu\nCivil Engineering</item>
+        <item>Prof Dr Engr A Z A Saifullah\nRoom # 316\nCell : 01715209705\nE-mail : d_saifullah@iubat.edu\nMechanical Engineering</item>
+        <item>Engr Abdul Wadud\nRoom # 418\nCell : 01733566800\nE-mail : awadud@iubat.edu\nMechanical Engineering</item>
+        <item>Dr KMN Sarwar Iqbal\nRoom # 102\nCell : 01716455958\nE-mail : kiqbal@iubat.edu\nMechanical Engineering</item>
+        <item>Md Irteza Hossain\nRoom # 313\nCell : 01772048358\nE-mail : irteza.hossain@iubat.edu\nMechanical Engineering</item>
+        <item>Md Sharifuzzaman\nRoom # 313\nCell : 01716482800\nE-mail : sharifuzzaman@iubat.edu\nMechanical Engineering</item>
+        <item>Arif Md Shahed Iqubal\nRoom # 411\nCell : 01712628808\nE-mail : iqubal.shahed@iubat.edu\nMechanical Engineering</item>
+        <item>Engr Mafizul Haque\nRoom # 708\nCell : 01726909675\nE-mail : mafiz13@iubat.edu\nMechanical Engineering</item>
+        <item>Md Abdul Karim\nRoom # 112\nCell : 01914810168\nE-mail : abdul.karim@iubat.edu\nMechanical Engineering</item>
+        <item>Dr.A.K.M Solayman Hoque\nRoom # 413\nCell : 01554341140\nE-mail : solayman.hoque@iubat.edu\nMechanical Engineering</item>
+        <item>A S M Sayeam\nRoom # 511\nCell : 01736452094\nE-mail : sayeam@iubat.edu\nMechanical Engineering</item>
+        <item>Muammer Din Arif\nRoom # 412\nCell : 0171166339\nE-mail : arif.muammer@iubat.edu\nMechanical Engineering</item>
+        <item>Dr Sazzad-Bin-Sharif\nRoom # 423\nCell : 01775531145\nE-mail : sazzad.sharif@iubat.edu\nMechanical Engineering</item>
+        <item>Md Mahedi Hasan Bhuiyan\nRoom # 615\nCell : 01913030403\nE-mail : bmahedih@iubat.edu\nMechanical Engineering</item>
+        <item>Dr. Md. Zillur Rahman\nRoom # 615\nCell : 01717482258\nE-mail : zillur.rahman@iubat.edu\nMechanical Engineering</item>
+        <item>Dr Md Abdul Jabber\nRoom # 231\nCell : 01716216163\nE-mail : dr.jabber@iubat.edu\nBachelor of Arts in Economics</item>
+        <item>Muhammad Shahjahan\nRoom # 413\nCell : 01726665504\nE-mail : shahjahan@iubat.edu\nBachelor of Arts in Economics</item>
+        <item>Syeda Ajanta Israt\nRoom # 813\nCell : 01817576375\nE-mail : ajanta@iubat.edu\nBachelor of Arts in Economics</item>
+        <item>Dr Khan Md Tariqul Alam\nRoom # 812\nCell : 01763771249, 01937917603\nE-mail : drtariqul.alam@iubat.edu\nBachelor of Arts in Economics</item>
+        <item>Chandan Kumar Sarkar\nRoom # 512\nCell : 01717314333, 01726077766\nE-mail : csarkar@iubat.edu\Bachelor of Arts in Economics</item>
+        <item>Dr Bilkis Raihana\nRoom # 303\nCell : 01715002225\nE-mail : bilkisraihana@iubat.edu\nBachelor of Arts in Economics</item>
+        <item>Ms. Saima Alam Samantha\nRoom # 613\nCell : 01517123891\nE-mail : saima.samantha@iubat.edu\nBachelor of Arts in Economics</item>
+        <item>Dr Md Momtazur Rahman\nRoom # 106\nCell : 01727215512\nE-mail : momtazur@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Syed Fazlur Rahman\nRoom # 707\nCell : 01839847840\nE-mail :\nEnglish/Dept of Languages</item>
+        <item>Wg Cdr Kazi Abdul Matin (Retd)\nRoom # 413\nCell : 01731403793\nE-mail : matinka@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Mohammad Sakar Mahmod\nRoom # 314\nCell : 01718860866, 01815224285\nE-mail : msmahmod@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Md Abul Kalam Azad\nRoom # 511\nCell : 01199300075\nE-mail : azad.abulkalam@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Abu Taher Mohammad Sirajul Alom\nRoom # 812\nCell : 01819129125\nE-mail : atmsalom@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Ariful Insan Emon\nRoom # 812\nCell : 01712128452\nE-mail : insan@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Bilkis Fahmida\nRoom # 322\nCell : 01985180595\nE-mail : fahmida@iu bat.edu\nEnglish/Dept of Languages</item>
+        <item>Md Jashim Uddin\nRoom # 313\nCell : 01917862692\nE-mail : jashim.uddin@iubat.edu\English/Dept of Languages</item>
+        <item>Fawzia Yakub\nRoom # 313\nCell : 01727674077\nE-mail : fawzia@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Md Sadekul Islam\nRoom # 130\nCell : 01748296900\nE-mail : sadekul@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Md Forhad Hossain\nRoom # 110\nCell : 01765593739\nE-mail : forhadhossain@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Md Kawsar Uddin\nRoom # 619\nCell : 01687745878\nE-mail : ukawsar@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Lulu-Al- Marzan\nRoom # 613\nCell : 01717993216\nE-mail : marzan@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Habeeb Faruk Khan\nRoom # 522\nCell : 01677101067\nE-mail : habeeb_farukkhan@iubat.edu</item>
+        <item>A K M Aminur Rashid\nRoom # 303\nCell : 01911127825\nE-mail : akmaminur.rashid@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Jannatul Ferdouse\nRoom # 710\nCell : 01913498021\nE-mail : Jannatul.ferdous@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Dr Md Kamrul Hasan\nRoom # 523\nCell : 01777417335\nE-mail : kamrul.hasan@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Sheikh Md.Rokonul Islam\nRoom # 711\nCell : 01672677211\nE-mail : rokonul.islam@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Mr.Reedwan Habib\nRoom # 711\nCell : 01818005176\nE-mail : reedwan.habib@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Mr.Md.Musrifur Jelane\nRoom # 619\nCell : 01838778781\nE-mail : musrifur@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Prof. Dr. Abul Khair\nRoom # 321\nCell : 01711801484\nE-mail : profabulkhair@iubat.edu\nDepartment of Chemistry</item>
+        <item>Dr Sunil K Biswas\nRoom # 810\nCell : 01720381612\nE-mail : sunilk.biswas@iubat.edu\nDepartment of Chemistry</item>
+        <item>Dr Md Harun Ur Rashid\nRoom # 110\nCell : 01711231077\nE-mail : hrashid@iubat.edu\nDepartment of Chemistry</item>
+        <item>Dr Nilay Kumar Dey\nRoom # 514\nCell : 01711266102\nE-mail : drnkdey@iubat.edu\nDepartment of Chemistry</item>
+        <item>S M Borhanuddin\nRoom # 110\nCell : 01715818302\nE-mail : borhan@iubat.edu\nDepartment of Chemistry</item>
+        <item>Kaniz Kakan\nRoom # 412\nCell : 01717235120\nE-mail : kanizkakon@iubat.edu\nDepartment of Philosophy</item>
+        <item>Farjana Hossain\nRoom # 519\nCell : 01732131431\nE-mail : farjana.hossain@iubat.edu\nDepartment of Philosophy</item>
+        <item>Md Shamsul Haque\nRoom # 709\nCell : 01947454776\nE-mail : shamsul.haque@iubat.edu\nDepartment of Philosophy</item>
+        <item>Ms Selina Nargis\nRoom # 230\nCell : 01819234557\nE-mail : selina.nargis@iubat.edu\nDepartment of Psychology</item>
+        <item>Ms.Mita Mondol\nRoom # 105\nCell : 01818731450\nE-mail : mita.mondol@iubat.edu\nDepartment of Psychology</item>
+        <item>Roksana Parvin\nRoom # 322\nCell : 01722763265\nE-mail : roksana.parvin@iubat.edu\nDepartment of Psychology</item>
+        <item>Mallika De\nRoom # 809\nCell : 01734106921\nE-mail : mallika@iubat.edu\nDepartment of Psychology</item>
+        <item>Dr Md Mahbubur Rahman\nRoom # 415\nCell : 01948951679\nE-mail : mahbubur.rahman@iubat.edu</item>
+        <item>Priyanka Das Tithi\nRoom # 613\nCell : 01711287755\nE-mail : tithi@iubat.edu\nDepartment of Physics</item>
+        <item>Mohammad Hafizur Rahman Khan\nRoom # 812\nCell : 01978833055\nE-mail : mhr.khan@iubat.edu\nDepartment of Physics</item>
+        <item>F A Sabbir Ahamed\nRoom # 522\nCell : 01725328352\nE-mail : sabbir.ahamed@iubat.edu\nDepartment of Physics</item>
+        <item>Ms.Imrose Jahan\nRoom # 709\nCell : 01778308630\nE-mail : imrose.jahan@iubat.edu\nDepartment of Physics</item>
+        <item>Shahadat Hossain\nRoom # 424\nCell : 01914905076\nE-mail : shahadat.hossain@iubat.edu\nDepartment of Physics</item>
+        <item>Prof. M. Aman Ullah\nRoom # 233\nCell : 01911110906\nE-mail : aman@iubat.edu\nDepartment of Mathematics</item>
+        <item>Mizanur Rahman\nRoom # 303\nCell : 01817561007\nE-mail : rahmanmizanur@iubat.edu\nDepartment of Mathematics</item>
+        <item>Dilip Kumar Das\nRoom # 411\nCell : 01711196050\nE-mail : dilipkdas@iubat.edu\nDepartment of Mathematics</item>
+        <item>Rashida Pervin Lily\nRoom # 711\nCell : 01726362307\nE-mail : rashida_pervin@iubat.edu\nDepartment of Mathematics</item>
+        <item>Dr. Rajib Lochan Das\nRoom # 518\nCell : 01771110369\nE-mail : dasrajib@iubat.edu\nDepartment of Mathematics</item>
+        <item>Rehana Parvin\nRoom # 813\nCell : 01749432487\nE-mail : rehana_parvin@iubat.edu\nDepartment of Mathematics</item>
+        <item>Sadiya Akhter\nRoom # 619\nCell : 01940989942\nE-mail : sadiya.akhter@iubat.edu\nDepartment of Mathematics</item>
+        <item>Debzit Datta\nRoom # 810\nCell : 01925779465\nE-mail : ddatta@iubat.edu\nDepartment of Mathematics</item>
+        <item>Md Moksud Islam\nRoom # 810\nCell : 01746433456\nE-mail : mislam@iubat.edu\nDepartment of Mathematics</item>
+        <item>Md Saiduzzaman\nRoom # 324\nCell : 01751002566\nE-mail : szaman@iubat.edu\nDepartment of Mathematics</item>
+        <item>Md Shafiqul Islam\nRoom # 420\nCell : 01913004750\nE-mail : shafiqul.islam@iubat.edu\nDepartment of Mathematics</item>
+        <item>Zakia Hossain\nRoom # 111\nCell : 01718585081\nE-mail : zakia.hossain@iubat.edu\nDepartment of Mathematics</item>
+        <item>Fatema Tuj Johora\nRoom # 619\nCell : 01914209939\nE-mail : fatema.johorea@iubat.edu\nDepartment of Mathematics</item>
+        <item>Nayema Islam Nima\nRoom # 415\nCell : 01680736829, 01783615753\nE-mail : nayemanima@iubat.edu\nDepartment of Mathematics</item>
+        <item>Ms. Naznin Firoza\nRoom # 705\nCell : 01755203327\nE-mail : naznin.firoza@iubat.edu</item>
+        <item>Jahira Tabassum\nRoom # 613\nCell : 01723975539\nE-mail : jahira@iubat.edu\nDepartment of Mathematics</item>
+        <item>Md Anwar Hossain\nRoom # 314\nCell : 01817561007\nE-mail : anwar@iubat.edu\nDepartment of Mathematics</item>
+        <item>Mr.Joni Alam\nRoom # 711\nCell : 01927619818\nE-mail : joni.alam@iubat.edu\nDepartment of Mathematics</item>
+        <item>Moss.Asma Akter\nRoom # 519\nCell : 01878938303\nE-mail : asma.akter@ iubat.edu\nDepartment of Mathematics</item>
+        <item>Rehana Parvin\nRoom # 708\nCell : 01911751193\nE-mail : rehana.parvin@iubat.edu\nDepartment of Statistics</item>
+        <item>Mohammed Motaher Hossain\nRoom # 810\nCell : 01679041756\nE-mail : motaher@iubat.edu\nDepartment of Statistics</item>
+        <item>Ms. Murshida Yasmin\nRoom # 322\nCell : 01742506057\nE-mail : murshida.yasmin@iubat.edu\nDepartment of Statistics</item>
+        <item>Md Mujibur Rahman\nRoom # 619\nCell : 01710496804\nE-mail : mujibur@iubat.edu\nDepartment of Statistics</item>
+        <item>Mohammad Abu Horaira\nRoom # 416\nCell : 01716767828\nE-mail : horaira@iubat.edu</item>
+        <item>Mohammad Musa\nRoom # 313\nCell : 01716788865\nE-mail : musa@iubat.edu\nCollege of Tourism and Hospitality</item>
+        <item>Sk Ershad Hossain\nRoom # 711\nCell : 01558549767\nE-mail : sehossain@iubat.edu\nCollege of Tourism and Hospitality</item>
+        <item>Farzana Al Ferdous\nRoom # 813\nCell : 01928516482\nE-mail : faferdous@iubat.edu\nCollege of Tourism and Hospitality</item>
+        <item>Mohammad Mofaserul Islam\nRoom # 811\nCell : 01912810617, 01716124908\nE-mail : mofasserul@iubat.edu\nCollege of Tourism and Hospitality</item>
+        <item>Johura Jabin Anika\nRoom # 706\nCell : 01734734739, 01670187662\nE-mail : jjanika@iubat.edu\nCollege of Tourism and Hospitality</item>
+        <item>Md. Yusuf Hossein Khan\nRoom # 411\nCell : 01779827510\nE-mail : yusuf.hossein@iubat.edu\nCollege of Tourism and Hospitality</item>
+        <item>Dr A.S.A Masud\nRoom # 319\nCell : 01827567665\nE-mail : asa.masud@iubat.edu</item>
+        <item>Shamsun Nahar\nRoom # 209\nCell : 01718084699\nE-mail : snahar@iubat.edu\nCollege of Nursing</item>
+        <item>khadiza Akter\nRoom # 710\nCell : 01752788577\nE-mail : khadiza.akter@iubat.edu\nCollege of Nursing</item>
+        <item>Shuvashish Das Bala\nRoom # 319\nCell : 01777643131,01859566282\nE-mail : shuvashish@iubat.edu\nCollege of Nursing</item>
+        <item>Ms.Kanika Islam\nRoom # 619\nCell : 01953675779\nE-mail : kanika.islam@iubat.edu\nCollege of Nursing</item>
+        <item>Ms.Ayesha Siddika Rimi\nRoom # 424\nCell : 01717699640\nE-mail : ayesharimi@gmail.com\nCollege of Nursing</item>
+        <item>Professor Dr Abdur Rab\nRoom # 209\nCell : 01737678431\nE-mail : vc@iubat.edu\nVice Chancellor`s Office</item>
+        <item>Rabiul Islam\nRoom # 212\nCell : 01731131164\nE-mail : rabiul@iubat.edu\nVice Chancellor`s Office</item>
+        <item>Sanchay Kanti Barua\nRoom # 212\nCell : 58955471\nE-mail : sanchay@iubat.edu\nVice Chancellor`s Office</item>
+        <item>Abu Hanif\nRoom # 212\nCell : 01616835239\nE-mail : hanif@iubat.edu\nVice Chancellor`s Office</item>
+        <item>Monowara Sarwer\nRoom # 109\nCell : 01711463818\nE-mail : monowara.sarwar@iubat.edu\nLibrary</item>
+        <item>Abul Kalam Azad\nRoom # 109\nCell : 01773408963\nE-mail : akazad@iubat.edu\nLibrary</item>
+        <item>Kohinoor Aktar\nRoom # 109\nCell : 01704636716\nE-mail : kohinoor@iubat.edu\nLibrary</item>
+        <item>Mohsina Akthar Jahan\nRoom # 109\nCell : 01816193828\nE-mail : mohsinaaj@iubat.edu\nLibrary</item>
+        <item>Mahfojur Rahman\nRoom # 109\nCell : 01820850359\nE-mail : mahfojur@iubat.edu\nLibrary</item>
+        <item>Md. Monir Hosen\nRoom # 109\nCell : 01745192883\nE-mail : monir.hosen@iubat.edu\nLibrary</item>
+        <item>Al - Amin (2)\nRoom # 419\nCell : 01738102233\nE-mail : alamin.anik@iubat.edu\nAdministration</item>
+        <item>Md. Titu Miah\nRoom # 231\nCell : 01674663838\nE-mail : titu@iubat.edu\nAdministration</item>
+        <item>Rifat Sumona Mollik\nRoom # 318\nCell : 01747254405, 01873254405\nE-mail : sumona.mollik@iubat.edu</item>
+        <item>Md Zulfiquer Haider\nRoom # 419\nCell : 01687714914\nE-mail : zulfiquer.haider@iubat.edu\nAdministration</item>
+        <item>Mr.Maxim Chakma\nRoom # 232\nCell : 01820328886,01709299141\nE-mail : maximchakma@iubat.edu\nAdministration</item>
+        <item>Emtiaz Ahamed Mainul\nRoom # 208\nCell : 01761197070\nE-mail : emtiaz_mainul@iubat.edu\nAdministration</item>
+        <item>Mrs. Akliza Akhter\nRoom # 418\nCell : 01676605454\nE-mail : akhy@iubat.edu\nAdministration</item>
+        <item>Sadik Shahriar Haque Sifat\nRegisterial Office</item>
+        <item>Md.Rakiul Hassan Mondal\nRoom # 315\nCell : 01717680891</item>
+        <item>Sadia Iffat Haque\nRoom # 227\nCell : 01869848522\nE-mail : ema@iubat.edu\nRegisterial Office</item>
+        <item>Rizna Nahar\nRoom # 226\nCell : 01722166084\nE-mail : rizna@iubat.edu\nRegisterial Office</item>
+        <item>Mr.Akter Tariq\nRoom # 302\nCell : 01717635356\nE-mail : drsalahuddin@iubat.edu</item>
+        <item>Yasmin Jahan\nRoom # 226\nCell : 01684479355\nE-mail : yasmin.jahan@iubat.edu\nRegisterial Office</item>
+        <item>Sukumar Mondal\nRoom # 226\nCell : 01926106432\nE-mail : skmondal@iubat.edu\nRegisterial Office</item>
+        <item>M.A Mazadur Rahman\nRoom # 202\nCell : 01830179401\nE-mail : mazadur_rahman@iubat.edu\nRegisterial Office</item>
+        <item>Md. Abu Sayed\nRoom # 225\nCell : 01915877976\nE-mail : abusayed@iubat.edu\nRegisterial Office</item>
+        <item>Md Nazmul Haque Khan\nRoom # 225\nCell : 01727277166\nE-mail : nazmul@iubat.edu\nRegisterial Office</item>
+        <item>Ms. Shahanara Akter\nRoom # 225\nCell : 01751399114\nE-mail : shahana.akter@iubat.edu\nRegisterial Office</item>
+        <item>Md. Siddiqur Rahman\nRoom # 225\nCell : 01732426059\nE-mail : srahman@iubat.edu\nRegisterial Office</item>
+        <item>Md. Jahangir Alam\nRoom # 227\nCell : 01675012851\nE-mail : jahangir.alam@iubat.edu\nRegisterial Office</item>
+        <item>Sowmitra Barua\nRoom # 227\nCell : 01819475028\nE-mail : sowmitra@iubat.edu\nRegisterial Office</item>
+        <item>Md. Jahangir Alam (2)\nRoom # 227\nCell : 01914315496\nE-mail : jahangir.alam@iubat.edu\nRegisterial Office</item>
+        <item>Md. Khayrujamman\nCell : 01684394573\nE-mail : jamman@iubat.edu\nRegisterial Office</item>
+        <item>Munmun Bari\nRoom # 227\nCell : 01719085066\nE-mail : munmun@iubat.edu\nRegisterial Office</item>
+        <item>Mst. Nurunnahar Rakhi\nRoom # 226\nCell : 01719346438\nE-mail : nrakhi@iubat.edu\nRegisterial Office</item>
+        <item> Abdul Momin\nRoom # 302\nCell : 01710082003\nE-mail : zakia.hossain@iubat.edu</item>
+        <item>Md. Afizer Rahman\nRoom # 302\nCell : 01937129012\nE-mail : afizer@iubat.edu</item>
+        <item>Md. Aslam Uddin\nRoom # 301\nCell : 01741222160\nE-mail : aslam@iubat.edu</item>
+        <item>Mohammad Razib Khan\nCell : 01715125209\nE-mail : mrkhan@iubat.edu\nComputer Education and Training</item>
+        <item>Md. Hymayan kabir\nE-mail : kabir@iubat.edu\nSystem Support Officer</item>
+        <item>Raju Ahmed\nIT Officer\nRoom # CSE Lab 2\nCell : 01675309060, 01723888999\nE-mail : raju@iubat.edu</item>
+        <item>Mohadab Chandra Bormon\nIT Officer\nRoom # CSE Lab 2\nCell : 01722252505, 01674188348\nE-mail : dab@iubat.edu</item>
+        <item>Sanjib Debnath\nCell : 01558600918\nE-mail : sanjib@iubat.edu\nComputer Education and Training</item>
+        <item>Khwaja Muhammed Sultanul Aziz\nRoom # 320\nCell : 01819410315\nE-mail : azizkms@iubat.edu\nCollege of Arts and Science</item>
+        <item>Dr.Ferdous Ahmed \nRoom # 301\nCell : 01750598586\nE-mail : ferdous.ahmed@iubat.edu\nCollege of Agricultural Sciences</item>
+        <item>Hasanuzzaman \nRoom # 415\nCell:01712523127,01703712561\nE-mail : tushar@iubat.edu\nCollege of Business Administration</item>
+        <item>Mr.Hasibul Islam Russell \nRoom # 709\nCell : 01993315623\nE-mail : hasibul.russell@iubat.edu\nCollege of Business Administration</item>
+        <item>Nayma Iftakhar \nRoom # 519\nCell : 01776670236\nE-mail : iftakhar.nayma@iubat.edu\nCollege of Business Administration</item>
+        <item>Mr.Mahamudul Hasan\nRoom # 708\nCell : 01793083793\nE-mail : mahamudul.hasan@iubat.edu\nCollege of Business Administration</item>
+        <item>Prof.Dr Ehteshamul Haque\nRoom # 217\nE-mail : ehaquebd@yahoo.com\nComputer Science and Engineering</item>
+        <item>Hasibur Rashid Chayon\nRoom # 423\nCell : 01912 643723\nE-mail : chayon@iubat.edu\nComputer Science and Engineering</item>
+        <item>Fardina Fathmiul Alam\nRoom # 102\nCell : 01675 147870\nE-mail : fardina.alam@iubat.edu\nComputer Science and Engineering</item>
+        <item>Sharmila Majumdar\nRoom # 209\nCell : 01681 099577\nE-mail : sharmila@iubat.edu\nComputer Science and Engineering</item>
+        <item>Abdul Awal\nRoom # 217\nCell : 01714049454\nE-mail : abdul.awal@iubat.edu\nComputer Science and Engineering</item>
+        <item>Toyeer-E-Ferdous\nRoom # 710\nCell : 01743836567\nE-mail : toyeer@iubat.edu\nComputer Science and Engineering</item>
+        <item>Firuz Ahamed Nahid\nRoom # 234\nCell : 017577679594\nE-mail : fanahid@iubat.edu\nElectrical and Electronics Engineering</item>
+        <item>Dr.A.K.M Parvez Iqbal\nRoom # 615\nCell : 01712973095\nE-mail : akm.parvez.iqbal@iubat.edu\nMechanical Engineering</item>
+        <item>Mariom Akhter\nRoom # 424\nE-mail : mariom.akhter@iubat.edu\nEnglish/Dept of Languages</item>
+        <item>Zahirul Amin\nRoom # 324\nCell : 01717575036\nE-mail : zahurul.amin@iubat.edu\nDepartment of Physics</item>
+        <item>Farhana Akter Bina\nRoom # 613\nCell : 01680275349\nE-mail : farhanabina@iubat.edu\nDepartment of Statistics</item>
+        <item>Shamsun Nahar\nRoom # 209\nCell : 01718084699\nE-mail : snahar@iubat.edu\nCollege of Nursing</item>
+
+    </string-array>
+
+    <string-array name="course_info">
+        <item>ART 102 Educational Planning (1)</item>
+        <item>CSC 103 Fundamentals of Computers and Applications (3)</item>
+        <item>CSC 104 Computer Applications Lab (1)</item>
+        <item>ENG 101 Basic English Composition (4)</item>
+        <item>Mat 107 Mathematics (4)</item>
+        <item>ENG 102 English Comprehension and Speaking (3)</item>
+        <item>MAT 147 Applied Calculus (3)</item>
+        <item>PHY 109 General Physics (3)</item>
+        <item>PSY 105 General Psychology (3)</item>
+        <item>PHI 114 Introduction to Philosophy (3)</item>
+        <item>SOC 106 Introduction to Sociology (3)</item>
+        <item>ANT 104 Introduction to Anthropology (3) </item>
+        <item>ENV 101 Introduction to Environmental Science (3)</item>
+        <item>ART 204 Modern Living </item>
+        <item>BUS 101 Introduction to Business (3)</item>
+        <item>CHM 115 General Chemistry (3)</item>
+        <item>ENG 203 Advanced English Compositions (3)</item>
+        <item>BUS 201 Business Communication (3) </item>
+        <item>ECO 102 Principles of Marco Economics (3)  </item>
+        <item>MGT 201 Management Process (3)</item>
+        <item>MGT 202 Legal Environment of Business (4)</item>
+        <item>ACC 101 Financial Accounting (3)</item>
+        <item>STA 240 Statistics (3)</item>
+        <item>ENG 250 Public Speaking (3)</item>
+        <item>HRM 301 Human Resource Management(3)</item>
+        <item>ACC 201 Cost Accounting (3)</item>
+        <item>MKT 301 Marketing Management(3)</item>
+        <item>CSC 151 Visual Basic (3) </item>
+        <item>CSC 152 Visual basic lab (1) </item>
+        <item>ART 202 Career Planning and   Development-(i)(1)</item>
+        <item>ACC 304 Accounting for Management  Control (3)</item>
+        <item>FIN 301 Business Finance  (3)</item>
+        <item>BUS 301 Business Research (3)</item>
+        <item>POP 301 Production-Operations Management(3)</item>
+        <item>ACC 300 Auditing (2) </item>
+        <item>ACC 303 Taxation (2)</item>
+        <item>CSC 433 Database Management System (3)</item>
+        <item>MGT 401 Entrepreneurship (3)</item>
+        <item>MGT 403 Strategic Management (3) </item>
+        <item>ART 203 Career Planning and  Development (ii)(1)</item>
+        <item>MGT 302 Project Management (3)</item>
+        <item>MKT 302 Consumers and Buyer Behavior (3)</item>
+        <item>MGT 301 Management Information  System (3)</item>
+        <item>FIN 302 Corporate Finance (3) </item>
+        <item>MGT 305 Administrative Planning and Control (3)</item>
+        <item>POP 302 Procurement and Purchasing Management (3)</item>
+        <item>POP 303 Materials and store Management (3)</item>
+        <item>CSC 383 programming (java) (3)</item>
+        <item>CSC 384 Programming (java) Lab (1)</item>
+        <item>CSC 387 System Analysis and Design (3)</item>
+        <item>HRM 303 Organizational Behavior (3)</item>
+        <item>MKT 303 Salesmanship and Sales Management (3) </item>
+        <item>MKT 304 Advertising and Sales Promotion (3) </item>
+        <item>MKT 401 Marketing Research (3) </item>
+        <item>MKT 402 International Marketing (3) </item>
+        <item>FIN 402 Commercial Bank Management (3) </item>
+        <item>FIN 403 Management of Financial  Institutions (3)</item>
+        <item>FIN 404 Management of Insurance Business (3)</item>
+        <item>FIN 405 International Financial Management (3)</item>
+        <item>HRM 401 Organization Structure and Design (3)</item>
+        <item>MGT 405 Comparative Management  (3)</item>
+        <item>MGT 406 Managerial planning (3)</item>
+        <item>Pop 304 Transportation management (3)</item>
+        <item>POP 401 Operations Planning and Control (3)</item>
+        <item>POP 402 Inventory Planning and control System(3)</item>
+        <item>POP 403 Production Operation Strategy (3)</item>
+        <item>CSC 393 Web Page Designing (3) </item>
+        <item>CSC 394 Web Page Designing Lab (1)</item>
+        <item>CSC 395 E-Commerce Management (3)</item>
+        <item>CSC 451 Management Information System (3)</item>
+        <item>CSC 465 Data Communication and Computer Network (3)</item>
+        <item>CSC 466 Network Lab (1)</item>
+        <item>HRM 302 Compensation Management (3)</item>
+        <item>HRM 304 Training and Development Management (3)</item>
+        <item>HRM 402 Unionism and Collective Bargaining (3)</item>
+        <item>ART 103 Grooming (0)</item>
+        <item>PHY 112 Physics (3)</item>
+        <item>PHY 113 Physics Lab (1)</item>
+        <item>CSC 183 Programming C (3)</item>
+        <item>CSC 184 Programming Lab (1)</item>
+        <item>MAT 219 Linear Algebra (2)</item>
+        <item>EEN 183 Circuit Analysis (I) (3)</item>
+        <item>EEN Circuit Lab (1)</item>
+        <item>CSC 197 Assembly Language (3)</item>
+        <item>CHM 116 Chemistry Lab (1)</item>
+        <item>MAT 247 Numerical Analysis (3)</item>
+        <item>CSC 231 Fundamentals of Electronics and Digital Systems (3)</item>
+        <item>CSC 232 Electronics and Digital Lab (1)</item>
+        <item>CSC 247 Computer Architecture (3)</item>
+        <item>MAT 257 Discrete Mathematics (3)</item>
+        <item>CSC 283 Programming (c++) (3)</item>
+        <item>CSC 284 Programming Lab (C++) (1)</item>
+        <item>CSC 307 Operating Systems (3)</item>
+        <item>CSC 329 Logic Design and Switching Circuits (3)</item>
+        <item>CSC 330 Logic Lab (1)</item>
+        <item>CSC 347 Computer Hardware and Maintenance (2)</item>
+        <item>CSC 348 hardware Lab (2)</item>
+        <item>CSC 391 Data Structure and Algorithms (4)</item>
+        <item>CSC 397 Theory of Computation (4)</item>
+        <item>CSC 434 Database management System Lab (1)</item>
+        <item>CSC 437 Compiler Design (3)</item>
+        <item>CSC 439 Visual Programming (3)</item>
+        <item>CSC 440 Visual Programming Lab (1)</item>
+        <item>CSC 455 Computer Graphics Elective (3)</item>
+        <item>CSC 461 Programming Language and Structures (3)</item>
+        <item>CSC 469 Software Engineering (3)</item>
+        <item>CSC 470 Software Engineering Lab (1)</item>
+        <item>CSC 490 Practicum  (9)</item>
+        <item>CEN 160 Civil Engineering Drawing-(i) (1.5)</item>
+        <item>MAT 167 Calculus –(i) (3)</item>
+        <item>PHY 110 Physics Lab (1)</item>
+        <item>CEN 180 Civil Engineering Drawing-(ii) (1.5)</item>
+        <item>MAT 197 Calculus-(ii) (3)</item>
+        <item>MAT 217 Linear Algebra (2)</item>
+        <item>MAT 237 Calculus-(iii) (3)</item>
+        <item>ECO 101 Principles of Microeconomics (3)</item>
+        <item>CSC 179 programming (3)</item>
+        <item>CSC 180 Programming Lab (1)</item>
+        <item>CEN 207 Engineering Measurement and Survey (2)</item>
+        <item>CEN 208 Survey Practical (1)</item>
+        <item>CEN 213 Civil Engineering Materials (3)</item>
+        <item>CEN 214 Civil Engineering Materials Lab (1)</item>
+        <item>CEN 231 Engineering Mechanics (3)</item>
+        <item>EEN 184 Circuit Analysis-(i) Lab (1)</item>
+        <item>CEN 223 Engineering Geology and Geomorphology (2)</item>
+        <item>CEN 216 Quantity Surveying (2)</item>
+        <item>CEN 257 Mechanics of solids (4)</item>
+        <item>CEN 258 Mechanics of Solids Lab (1)</item>
+        <item>CEN 267 Fluid Mechanics (4)</item>
+        <item>CEN 268 Fluid Mechanics Lab (1)</item>
+        <item>CEN 309 Structural Analysis and Design-(i) (4)</item>
+        <item>CEN 323 Analysis and Design of Reinforced Concrete-(i) (3)</item>
+        <item>CEN 327 Engineering Hydrology (3)</item>
+        <item>CEN 341 Geotechnical engineering-(i) (3)</item>
+        <item>CEN 342 Geotechnical Engineering-(i) Lab (1)</item>
+        <item>CEN 343 Environmental Engineering-(i) (3)</item>
+        <item>CEN 307 Open Channel Flow (3)</item>
+        <item>CEN 371 Transportation Engineering-(i) (3)</item>
+        <item>CEN 372 Transportation Engineering-(i) Lab (1)</item>
+        <item>CEN 401 Irrigation and Flood Control (3)</item>
+        <item>CEN 441 Environmental Engineering-(ii) (3)</item>
+        <item>CEN 442 Environmental Engineering-(ii) Lab (1.5)</item>
+        <item>CEN 347 Analysis and Design Reinforced Concrete-(ii) (3)</item>
+        <item>CEN 377 Geotechnical Engineering-(ii) (3)</item>
+        <item>CEN 471 Transportation Engineering-(ii) (3)</item>
+        <item>CEN 451 Project Evaluation, Planning and Management (4)</item>
+        <item>CEN 409 Structural Analysis and Design-(ii) (3)</item>
+        <item>CEN 410 Structural Analysis and Design-(ii) Practice (1.5)</item>
+        <item>Elective Course One (3)</item>
+        <item>CEN 490 Practicum (9)</item>
+        <item>CEN Comprehensive (0)</item>
+        <item>MEC 120 Mech. Eng. Drawing-(i) (1)</item>
+        <item>MAT 167 Calculus-(i) (3)</item>
+        <item>WCO 101 Principles of Micro Economics (3)</item>
+        <item>EEN 225 Circuit Analysis-(ii) (3)</item>
+        <item>EEN 226 Circuit-(ii) Lab (1)</item>
+        <item>MEC 173 introduction to Mechanical Engineering (3)</item>
+        <item>EEN 265 Electronic Analysis and Design </item>
+        <item>MEC 231 Basic Mechanics-(i) (3)</item>
+        <item>MAT 237 Calculus (iii) (3)</item>
+        <item>EEN 257 Electrical Machine-(i) (3)</item>
+        <item>EEN 258 Electrical Machine –(i) Lab (1)</item>
+        <item>EEN 315 Electronic Analysis and Design-(ii) (3)</item>
+        <item>EEN 316 Electronics-(ii) Lab (1)</item>
+        <item>MEC 271 Basic Mechanics-(ii) (3)</item>
+        <item>EEN 275 Electric and Magnetic Fields (3)</item>
+        <item>EEN 287 Electrical Machines-(ii) (3)</item>
+        <item>EEN 288 Electrical Machines-(ii) Lab (1)</item>
+        <item>EEN 303 Linear Circuits and Syestems (3)</item>
+        <item>EEN 329 Digital Logic Design (3)</item>
+        <item>EEN 330 Digital Logic Lab (1)</item>
+        <item>EEN 331 Measurement and Instrumentation (3)</item>
+        <item>EEN 332  Measurement and Instrumentation Lab (1)</item>
+        <item>EEN 345 Electronic Analysis and Design-(iii) (3)</item>
+        <item>EEN 346 Electronics-(iii) Lab (1)</item>
+        <item>EEN 361 Power Transmission and Distribution (3)</item>
+        <item>EEN 373 Microprocessor System and Interfacing (3)</item>
+        <item>EEN 374 Microprocessor Interfacing Lab (1)</item>
+        <item>EEN 407 Feedback System Analyses and Design (3)</item>
+        <item>EEN 408 Feedback System Lab (1)</item>
+        <item>EEN 431 Transmission of Information (3)</item>
+        <item>EEN 432 Communication Lab (1)</item>
+        <item>MEC 453 Project Evaluation, planning and Management (4)</item>
+        <item>EEN 453 Power System Analysis (3)</item>
+        <item>EEN 454 Power System Analysis practice (1)</item>
+        <item>EEN 455 Power Stations (3)</item>
+        <item>Elective (3)</item>
+        <item>Lab Elective (1)</item>
+        <item>EEN 490 Practicum (9)</item>
+        <item>MAT 167 Calculus-(i) (3)</item>
+        <item>PHY 110 Physics Lab (1)</item>
+        <item>MEC 120 Mechanical Engineering Drawing-(i) (1)</item>
+        <item>MEC 140 Mechanical Engineering Drawing-(ii) (1)</item>
+        <item>MAT 2219 Linear Algebra (2)</item>
+        <item>MEC 177 Introduction to Engineering Materials (3)</item>
+        <item>CSC 181 Programming (3)</item>
+        <item>CSC 182 Programming Lab (1)</item>
+        <item>MEC 285 Industrial Quality Control(2)</item>
+        <item>MAT 237 Calculus-(iii) (3)</item>
+        <item>MEC 203 Thermodynamics-(i) (4)</item>
+        <item>MEC 204 Thermodynamics-(i) Lab (1)</item>
+        <item>MEC 237 Manufacturing Processes (2)</item>
+        <item>MEC 238 Manufacturing proc. Practice (1)</item>
+        <item>MEC 257 Mechanics of Solids (4)</item>
+        <item>MEC 258 Mechanics of Solids Lab (1)</item>
+        <item>MEC 263 Measurements of Quality Control (3)</item>
+        <item>MEC 264 Mechanical Measurements practice (1)</item>
+        <item>MEC 267 Fluid Mechanics-(i) (4)</item>
+        <item>MEC 268 Fluid Mechanics-(i) Lab (1)</item>
+        <item>MEC 271 Basic Mechanics-(ii) (3)</item>
+        <item>MEC 313 Heat and Mass Transfer (3)</item>
+        <item>MEC 314 Heat and Mass Transfer Lab (1)</item>
+        <item>MEC 347 Fluid Mechanics-(ii) (3)</item>
+        <item>MEC 348 Fluid Mechanics-(ii) Lab (1.5)</item>
+        <item>MEC 371 Mechanics of Machinery (3)</item>
+        <item>EEN 265 Electronics Analysis and Design-(i) (3)</item>
+        <item>EEN 266 Electronics-(i) Lab (1)</item>
+        <item>MEC 337 Instrumentation and Measurement (2)</item>
+        <item>MEC 338 Instrumentation and Measurement Lab (1)</item>
+        <item>MEC 391 Mechanical Design (4)</item>
+        <item>MEC 392 Mechanical Design Practice (1)</item>
+        <item>MEC 401 Internal Combustion Engines (3)</item>
+        <item>MEC 437 Principles of Turbo machinery  (3)</item>
+        <item>MEC 453 Project Evaluation, planning and Management (4)</item>
+        <item>MEC 403 Power Plant Engineering (3)</item>
+        <item>MEC 404 Steam Engine Practice (1)</item>
+        <item>MEC 423 Refrigeration and Air Conditioning (3)</item>
+        <item>MEC 490 Practicum (9)</item>
+        <item>ECO 201 Intermediate Microeconomic Theory (3)</item>
+        <item>ECO 202 Intermediate Macro-economic Theory (3)</item>
+        <item>ECO 203 Economy of Bangladesh (3)</item>
+        <item>ECO 204 History of Economic Development (3)</item>
+        <item>ECO 301 Public policy and Finance (3)</item>
+        <item>Elective (3)</item>
+        <item>ECO 302 Agriculture Economics (3)</item>
+        <item>ECO 303 International Trade (3)</item>
+        <item>ECO 304 Demography (3)</item>
+        <item>ECO 305 Money and Banking (3)</item>
+        <item>Elective (4)</item>
+        <item>ECO 306 Labor Economics (3)</item>
+        <item>ECO 340 Introductory Economics (3)</item>
+        <item>ECO 481 Seminar on Economy Policy (3)</item>
+        <item>ECO 307 Industrial Organization (3)</item>
+        <item>ECO 482 Seminar on Social Policy (3)</item>
+        <item>Elective (3)</item>
+        <item>ECO 483 Seminar Economic Theory (3)</item>
+        <item>ECO 401 Economic Regulation and Privatization (3)</item>
+        <item>ECO 403 Economics of Education (3)</item>
+        <item>ECO 402 Economics of Natural Resources and Environmental Protection (3)</item>
+        <item>ECO 404 Health Economics (3)</item>
+        <item>Elective (3)</item>
+        <item>ECO 490 Practicum (9)</item>
+        <item>SSC 101 Social Science (3)</item>
+        <item>SSC 102 Social Science Lab (1)</item>
+        <item>AGR 101 Agronomy (3)</item>
+        <item>AGR 102 Agronomy Lab (1)</item>
+        <item>SSC 205 Soil Survey and Classification (3)</item>
+        <item>SSC 206 Soil Survey and Classification Practice(1)</item>
+        <item>BOT 107 Crop Botany (3)</item>
+        <item>BOT 108 Crop Botany Lab (1)</item>
+        <item>CHM 147 Agricultural Chemistry (3)</item>
+        <item>CHM 148 Agricultural Chemistry Lab (1)</item>
+        <item>AGR 351 Crop Production (3)</item>
+        <item>AGR 352 Crop Production Lab (1)</item>
+        <item>AGR 371 Plant Pathology (3)</item>
+        <item>AGR 372 Plant Pathology Lab (1)</item>
+        <item>AGR 321 Plant Nutrition (3)</item>
+        <item>AGR 322 Plant Nutrition Lab (1)</item>
+        <item>AGR 201 Plant Psychology (3)</item>
+        <item>AGR 202 Plant Psychology Lab (1)</item>
+        <item>AGR 381 Horticulture (3)</item>
+        <item>AGR 382 Horticulture Lab (1)</item>
+        <item>BOT 205 Genetics and Fundamentals of Plant Breeding (3)</item>
+        <item>BOT 206 Genetics and Fundamentals of Plant Breeding Lab (1)</item>
+        <item>AGR 373 Entomology (3)</item>
+        <item>AGR 374 Entomology Lab (1)</item>
+        <item>AGR 383 Floriculture (2)</item>
+        <item>AGR 384 Floriculture Lab(1)</item>
+        <item>BIO 207 Crop Climatology and Plant Ecology (3)</item>
+        <item>BIO 208 Crop Climatology and Plant Ecology Lab (1)</item>
+        <item>AGR 241 Farm Power Mechanics and Irrigation Technology (3)</item>
+        <item>AGR 401 Animal Science (2)</item>
+        <item>AGR 402 Animal Science Practice (1)</item>
+        <item>BIO 253 Biotechnology and Plant Breeding (3)</item>
+        <item>AGR 441 Food Processing (2)</item>
+        <item>AGR 442 Food Processing Practice (1)</item>
+        <item>AGR 411 Fishery Science (3)</item>
+        <item>AGR 412 Fishery Science Lab (1)</item>
+        <item>AGR 421 Poultry Production (2)</item>
+        <item>AGR 422 Poultry Production Practice (1)</item>
+        <item>ENV 201 Introduction to Environmental Science (3)</item>
+        <item>AGR 431 Dairy Production (2)</item>
+        <item>AGR 432 Dairy Production Lab (1)</item>
+        <item>AGR 391 Agricultural Communication (3)</item>
+        <item>AGR 301 Seed Science Technology (3)</item>
+        <item>AGR 490 Practicum (9)</item>
+        <item>CSC 433 Database Management and Hotel Related Software (3)</item>
+        <item>THM 001 Food Hygiene and Nutrition (2)</item>
+        <item>THM 101 Introduction to Hospitality Management </item>
+        <item>THM 102 Introduction to Tourism Management (3)</item>
+        <item>THM 161/BUS 201 Managerial Communication/Business Communication (3)</item>
+        <item>THM 201/HRM 201 Organization Behavoir (3)</item>
+        <item>THM 241/MKT 301 Hospitality Marketing Management/Marketing Management (3)</item>
+        <item>THM 245 Research in Tourism and Hospitality Management (3)</item>
+        <item>THM 301/FIN 301 Business Finance (3)</item>
+        <item>THM 302/HRM 301 Human Resource Management (3)</item>
+        <item>THM 317 Culture, Heritage and Entrepreneurship (4)</item>
+        <item>THM 331 Restaurant Management (3)</item>
+        <item>THM 405/MGT 403 Strategic Management (3)</item>
+        <item>THM 490 Practicum (9)</item>
+        <item>THM 496 Comprehensive</item>
+        <item>THM 111 Introduction to Lodging (3) </item>
+        <item>THM 115 Front Office Management (2)</item>
+        <item>THM 116 Front Office Lab (1)</item>
+        <item>THM 117 House Keeping Management (1)</item>
+        <item>THM 118 House Keeping Lab (2)</item>
+        <item>THM 119 House Keeping Management (2)</item>
+        <item>THM 120 House Keeping Lab (2)</item>
+        <item>THM 131 Food and Beverage Management (4)</item>
+        <item>THM 133 Food and Beverage Management (3)</item>
+        <item>THM 134 Food and Beverage Service Lab (1)</item>
+        <item>THM 231 Culinary Theroy and Practice (4)</item>
+        <item>THM 233 Bakery and Patisseries (2)</item>
+        <item>THM 234 Bakery and Patisseries Lab (2)</item>
+        <item>THM 235 Culinary Theory (2)</item>
+        <item>THM 236 Culinary Lab (2)</item>
+        <item>THM 107 Tour Guiding (3)</item>
+    </string-array>
+
+</resources>

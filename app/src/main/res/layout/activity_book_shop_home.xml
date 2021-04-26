@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#99CC99"
+    tools:context="com.applicationull.iubatsolutions.BookShopHome">
+
+    <TextView
+    android:layout_marginBottom="5dp"
+    android:gravity="center"
+    android:id="@+id/textViewId3"
+    android:textColor="#000"
+    android:textStyle="bold"
+    android:textSize="20sp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Please choose an option. You are.."
+    />
+
+    <RadioGroup
+        android:layout_marginBottom="30dp"
+        android:id="@+id/bookShopGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        >
+        <RadioButton
+            android:textSize="20sp"
+            android:id="@+id/bookSellerButtonId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Book Seller"
+            android:textColor="#000"
+            />
+        <RadioButton
+            android:textSize="20sp"
+            android:id="@+id/bookBuyerButtonId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Book Buyer"
+            android:textColor="#000"
+            />
+    </RadioGroup>
+    <Button
+        android:id="@+id/nextButtonId"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="@drawable/homebutton"
+        android:text="NEXT-->>"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        />
+
+</LinearLayout>

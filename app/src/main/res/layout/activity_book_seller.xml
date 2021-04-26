@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99cc99"
+    android:padding="20dp"
+    tools:context="com.applicationull.iubatsolutions.BookSeller">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center"
+            >
+            <TextView
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:layout_width="200dp"
+                android:layout_height="50dp"
+                android:background="#397f39"
+                android:text="BOOK SELLING"
+                android:layout_marginBottom="20dp"
+                />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView
+                    android:textStyle="bold"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:textSize="20sp"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000"
+                    android:text="Book Name "
+                    />
+
+                <EditText
+                    android:paddingLeft="20dp"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/style_2"
+                    android:id="@+id/bookNameId"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView
+                    android:textStyle="bold"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="125dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_height="wrap_content"
+                    android:text="Writer "
+                    android:textColor="#000"
+                    android:textSize="20sp"
+                    />
+                <EditText
+                    android:paddingLeft="20dp"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/style_2"
+                    android:id="@+id/writerId"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView
+                    android:textStyle="bold"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="125dp"
+                    android:textColor="#000"
+                    android:textSize="20sp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_height="wrap_content"
+                    android:text="Price "
+                    />
+                <EditText
+                    android:paddingLeft="20dp"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/style_2"
+                    android:id="@+id/priceId"
+                    android:inputType="numberDecimal"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView
+                    android:textStyle="bold"
+                    android:layout_marginTop="5dp"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:text="Your Name "
+                    android:textColor="#000"
+                    android:textSize="20sp"
+                    />
+                <EditText
+                    android:textColor="#000"
+                    android:paddingLeft="20dp"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/style_2"
+                    android:id="@+id/yourNameId"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <TextView
+                    android:textStyle="bold"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_width="125dp"
+                    android:layout_height="wrap_content"
+                    android:text="Contact"
+                    android:textColor="#000"
+                    android:textSize="20sp"
+
+                    />
+                <EditText
+                    android:paddingLeft="20dp"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/style_2"
+                    android:id="@+id/contactId"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:inputType="numberDecimal"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                >
+
+                <Button
+                    android:layout_margin="10dp"
+                    android:background="@drawable/homebutton"
+                    android:text="P O S T"
+                    android:textSize="20sp"
+                    android:textColor="#ffffff"
+                    android:id="@+id/postButtonId"
+                    android:layout_width="match_parent"
+                    android:layout_height="40dp"
+                    />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

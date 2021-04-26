@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:gravity="center"
+        android:text="Book Name: "
+        android:textStyle="bold"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/textViewId1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="Writer: "
+        android:layout_marginLeft="20dp"
+        android:id="@+id/textViewId2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="Price: "
+        android:layout_marginLeft="20dp"
+        android:id="@+id/textViewId3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="Seller Name: "
+        android:layout_marginLeft="20dp"
+        android:id="@+id/textViewId4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        />
+    <TextView
+        android:gravity="center"
+        android:text="Contact: "
+        android:layout_marginLeft="20dp"
+        android:id="@+id/textViewId5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#ffffff"
+        />
+
+</LinearLayout>
